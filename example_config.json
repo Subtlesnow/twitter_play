@@ -11,7 +11,7 @@
 		"password": "password",
 		"connection_url": "blahblahblah.com",
 		"database_name": "basic_api",
-		"collection_name": "tasks",
+		"collection_name": "tasks"
 	},
 	"twitter": {
 		"consumer_key": "numbers_and_stuff",
